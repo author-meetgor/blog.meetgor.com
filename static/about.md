@@ -4,12 +4,14 @@ title: About
 slug: about
 ---
 
-## A Backend developer that lives in the terminal
+## An writer by night, and developer by day
 
-Hi, I’m Meet, also known as Mr. Destructive – a backend developer who thrives in the terminal. Currently an I.T. student based in India, my programming journey began as a self-taught developer with C and JavaScript. Over time, I expanded my skills to Python, C/C++, and Golang, contributing to open-source libraries and projects along the way.
+- Hi, I’m Meet, also known as Mr. Destructive, mostly living life as a developer. My ego says to be a software developer, but my soul says to be a writer. I am on a war each day, balancing the devil ego with the angel soul. Both of them are helpful to me in one way or the other, one to get the basic needs, so the other can fulfil to the inner art to its content.
 
-I have a passion for building side projects, many of which you can explore in my portfolio. I’m also an avid learner and share my insights on my Techstructive Blog, where I write about Django, Vim, Golang, and more. When I’m not coding, I enjoy reading sci-fi, writing stories, and gaming.
+- I always had a instinct and glimpse of mother nature nudging me to be a writer, I still haven't found the right balance.
 
-Currently, I work at Docsumo as a Junior Backend Engineer, focusing on fraud detection and analytics for bank statements, after an internship role in Python development. Prior to this, I worked as a Backend Developer Intern at The Solar Labs, developing REST APIs and backend systems.
+- Previously as a child or even a teenager, I have couple of short stories and a novella to my name. Not to say, those are publishable or complete in some way, but the knack of writing was always with me. Over the past 4 years, I have written 200+ technical articles, some dozens of mythical posts, and now feeling the urge to write my sould out.
+
+- Who knows, where I will land, I don't know what I will write here, but something that I and someone atleast one person would enjoy, and If you are to be that person, I have done my dharma here.
 
 If you’re interested in connecting, check out my GitHub or drop me a message!

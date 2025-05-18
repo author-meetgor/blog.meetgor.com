@@ -4,7 +4,5 @@ title: Now
 slug: now
 ---
 
-- Working with Documents at Docsumo
-- Working on LLM Agents
-- Creating Static Site Generator from scratch (almost) in Golang
-
+- Working on 1 short story about employment, struggles and work life in Mumbai
+- Working on a travelogue based novel set in fictional world

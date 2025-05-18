@@ -1,0 +1,112 @@
+{
+    "blog": {
+        "name": "Meet Gor",
+        "description": "Personal blog by Meet Gor",
+        "base_url": "blog.meetgor.com",
+        "posts_dir": "posts",
+        "templates_dir": "templates",
+        "static_dir": "static",
+        "output_dir": "public",
+        "admin_dir": "admin",
+        "default_feed_template": "default_feed_template.html",
+        "default_post_template": "default_post_template.html",
+        "prefix_url": "",
+        "pages": {
+            "posta": {
+                "template": "default_post_template.html",
+                "feed_template": "default_feed_template.html",
+                "emoji": "📝"
+            },
+            "links": {
+                "emoji": "🔗"
+            },
+            "newsletter": {
+                "emoji": "📩"
+            },
+            "thoughts": {
+                "emoji": "💭"
+            }
+        },
+        "themes": {
+            "default": {
+                "bg": "#fafafa",
+                "text": "#2f2f2f",
+                "secondary_text": "#6e6e6e",
+                "link": {
+                    "normal": "#0066cc",
+                    "hover": "#004c99",
+                    "active": "#003366"
+                },
+                "quotes": "#999999",
+                "codeblocks": {
+                    "bg": "#f1f1f1",
+                    "border": "#e0e0e0"
+                },
+                "code": {
+                    "text": "#2f2f2f",
+                    "comment": "#8c8c8c",
+                    "keyword": "#005c99",
+                    "string": "#a14f00",
+                    "number": "#b00040",
+                    "variable": "#6b5b95",
+                    "function": "#00736b"
+                }
+            },
+            "secondary": {
+                "bg": "#1e1e1e",
+                "text": "#eaeaea",
+                "secondary_text": "#9d9d9d",
+                "link": {
+                    "normal": "#4dabf7",
+                    "hover": "#1a73e8",
+                    "active": "#1259b2"
+                },
+                "quotes": "#7a7a7a",
+                "codeblocks": {
+                    "bg": "#2a2a2a",
+                    "border": "#3a3a3a"
+                },
+                "code": {
+                    "text": "#eaeaea",
+                    "comment": "#9d9d9d",
+                    "keyword": "#5ba9ff",
+                    "string": "#f4a261",
+                    "number": "#ff7878",
+                    "variable": "#b892ff",
+                    "function": "#4dd0e1"
+                }
+            }
+        },
+        "github": {
+            "username": "author-meetgor",
+            "repository_name": "blog.meetgor.com",
+            "branch": "gh-pages"
+        },
+        "cloud_function": {
+            "base_url": "https://devmeetgor.netlify.app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Meet",
+            "username": "meet-gor",
+            "email": "gormeet711@gmail.com",
+            "github": "github.com/mr-destructive"
+        }
+    ],
+    "plugins": [
+        "readPosts",
+        "renderTemplates",
+        "createFeeds",
+        "copyStaticFiles",
+        "Db",
+        "Tags",
+        "Series",
+        "YearWise",
+        "Sitemap",
+        "RSS",
+        "index",
+        "admin",
+        "server"
+    ]
+}
